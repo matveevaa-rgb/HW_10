@@ -1,0 +1,51 @@
+    1  git config --global user.name "Matveeva"
+    2  git config global user.email matveeva.a1991@gmail.com
+    3  git clone https://github.com/matveevaa-rgb/HW_10.git
+    4  cd HW_10
+    5  git touch text_ignore.txt
+    6  touch text_ignore.txt
+    7  nano text_ignore.txt
+    8  git status
+    9  git status
+   10  nano gitignore
+   11  get status
+   12  clear
+   13  git clone https://github.com/matveevaa-rgb/HW_10.git
+   14  clear
+   15  git clone https://github.com/matveevaa-rgb/HW_10.git 
+   16  cd HW_10
+   17  git clone https://github.com/matveevaa-rgb/HW_10.git
+   18  clear
+   19  ls
+   20  cd repository
+   21  cd --/
+   22  cd -L
+   23  cd desktop
+   24  cd repository
+   25  git clone https://github.com/matveevaa-rgb/HW_10.git
+   26  cd HW_10
+   27  touch text_ignore.txt
+   28  nano gitignore
+   29  git status
+   30  git add
+   31  git add gitignore
+   32  git add text_ignore.txt
+   33  git commit -m "First step"
+   34  touch main_test.txt
+   35  git add main_test.txt
+   36  git commit -m "2 step"
+   37  git checkout -b branche_develop
+   38  touch develop_test.txt
+   39  git add develop_test.txt
+   40  git add branch_develop
+   41  git commit -m "3step"
+   42  nano develop_test.txt
+   43  git status
+   44  git add develop_test.txt
+   45  git commit -m "4step"
+   46  git checkout main
+   47  git merge branch_develop
+   48  git merge develop
+   49  git merge branche_develop
+   50  git log
+   51  history > command_list.csv
